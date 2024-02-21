@@ -19,6 +19,7 @@
  */
 function shallowCopy(/* obj */) {
   throw new Error('Not implemented');
+  console.log('---')
 }
 
 /**
